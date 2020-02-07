@@ -4,7 +4,7 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
+    siteTitleAlt: `Pudding Blog - Social Proof Tips and Tricks for Ecommerce`,
     navigation: [
       {
         title: `Blog`,
@@ -24,7 +24,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: process.env.UA-82283946-9,
+        trackingId: "UA-82283946-9",
       },
     },
     `gatsby-plugin-sitemap`,
