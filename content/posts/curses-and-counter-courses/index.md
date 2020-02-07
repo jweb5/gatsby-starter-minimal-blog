@@ -1,10 +1,10 @@
 ---
-title: "Curses and Counter-curses (Bewitch Your Friends and Befuddle Your Enemies with the Latest Revenges: Hair Loss, Jelly-Legs, Tongue-Tying, and Much, Much More)"
+title: "What is a conversion rate"
 date: 2019-10-25
-slug: "/curses-counter-curses-and-more"
+slug: "/conversion-rates"
 ---
 
-# What is a conversion rate
+
 
 Improving conversion rates is a great way to increase sales and make the most of your visitors time at your online store. 
 
