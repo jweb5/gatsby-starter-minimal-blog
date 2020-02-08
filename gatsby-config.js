@@ -3,7 +3,12 @@ require(`dotenv`).config({
 })
 
 module.exports = {
-  
+  plugins: [
+    {
+      resolve: "gatsby-theme-blog",
+      options: {},
+    },
+  ],
   siteMetadata: {
     title: "Pudding Blog - Social Proof Tips and Tricks for Ecommerce",  
     siteTitleAlt: `Pudding Blog - Social Proof Tips and Tricks for Ecommerce`,
