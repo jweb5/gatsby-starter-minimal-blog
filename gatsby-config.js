@@ -10,7 +10,7 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: "Pudding Blog - Social Proof Tips and Tricks for Ecommerce",  
+    siteTitle: "Pudding Blog - Social Proof Tips and Tricks for Ecommerce",  
     siteTitleAlt: `Pudding Blog - Social Proof Tips and Tricks for Ecommerce`,
     navigation: [
       {
