@@ -28,7 +28,6 @@ module.exports = {
         trackingId: "UA-82283946-9",
       },
     },
-    externalLinks: [],
     `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-plugin-manifest`,
@@ -56,6 +55,8 @@ module.exports = {
     },
     `gatsby-plugin-offline`,
     `gatsby-plugin-netlify`,
+    externalLinks: [],
+
     // `gatsby-plugin-webpack-bundle-analyser-v2`,
   ],
 }
