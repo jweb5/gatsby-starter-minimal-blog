@@ -20,11 +20,7 @@ module.exports = {
   externalLinks: [
     {
       name: `Twitter`,
-      url: ``
-    },
-    {
-      name: `Instagram`,
-      url: ``
+      url: `www.twitter.com`
     }
   ],
   plugins: [
