@@ -8,12 +8,8 @@ module.exports = {
     siteTitleAlt: `Pudding Blog - Social Proof Tips and Tricks for Ecommerce`,
     externalLinks: [ 
       {
-        name: `Twitters`,
-        url: `https://twitter.com/`
-      },
-      {
-        name: `Instagrams`,
-        url: `https://www.instagram.com/`
+        name: `Get our App`,
+        url: `https://www.getpudding.com/`
       }
     ],
     navigation: [
