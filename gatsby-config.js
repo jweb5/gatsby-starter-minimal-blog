@@ -4,7 +4,7 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitle: 'Pudding Blog - Social Proof Tips and Tricks for Ecommerce',  
+    siteTitle: 'Pudding Blog - Social Proof & More',  
     siteTitleAlt: `Pudding Blog - Social Proof Tips and Tricks for Ecommerce`,
     navigation: [
       {
