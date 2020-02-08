@@ -17,6 +17,16 @@ module.exports = {
  //     },
     ],
   },
+  externalLinks: [
+    {
+      name: `Twitter`,
+      url: ``
+    },
+    {
+      name: `Instagram`,
+      url: ``
+    }
+  ],
   plugins: [
     {
       resolve: `@lekoarts/gatsby-theme-minimal-blog`,
