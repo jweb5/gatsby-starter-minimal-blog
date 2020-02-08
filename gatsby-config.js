@@ -8,8 +8,12 @@ module.exports = {
     siteTitleAlt: `Pudding Blog - Social Proof Tips and Tricks for Ecommerce`,
     externalLinks: [ 
       {
-        name: `Get our App`,
-        url: `https://www.getpudding.com/`
+        name: `Get our Shopify App`,
+        url: `www.getpudding.com`
+      },
+      {
+        name: `About Us`,
+        url: `www.getpudding.com`
       }
     ],
     navigation: [
