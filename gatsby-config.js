@@ -7,7 +7,14 @@ module.exports = {
     siteTitle: 'Pudding Blog - Social Proof & More',  
     siteTitleAlt: `Pudding Blog - Social Proof Tips and Tricks for Ecommerce`,
     externalLinks: [ 
-      {}
+      {
+        name: `Twitters`,
+        url: `https://twitter.com/`
+      },
+      {
+        name: `Instagrams`,
+        url: `https://www.instagram.com/`
+      }
     ],
     navigation: [
       {
