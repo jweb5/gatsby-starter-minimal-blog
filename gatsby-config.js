@@ -6,6 +6,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'Pudding Blog - Social Proof & More',  
     siteTitleAlt: `Pudding Blog - Social Proof Tips and Tricks for Ecommerce`,
+    externalLinks: [],
     navigation: [
       {
         title: `Blog`,
@@ -55,7 +56,6 @@ module.exports = {
     },
     `gatsby-plugin-offline`,
     `gatsby-plugin-netlify`,
-    externalLinks: [],
 
     // `gatsby-plugin-webpack-bundle-analyser-v2`,
   ],
