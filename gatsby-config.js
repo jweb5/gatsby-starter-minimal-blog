@@ -17,7 +17,6 @@ module.exports = {
  //     },
     ],
   },
-  externalLinks: [],
   plugins: [
     {
       resolve: `@lekoarts/gatsby-theme-minimal-blog`,
@@ -29,6 +28,7 @@ module.exports = {
         trackingId: "UA-82283946-9",
       },
     },
+    externalLinks: [],
     `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-plugin-manifest`,
