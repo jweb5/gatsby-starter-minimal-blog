@@ -9,11 +9,11 @@ module.exports = {
     externalLinks: [ 
       {
         name: `Get our Shopify App`,
-        url: `www.getpudding.com`
+        url: `https://www.getpudding.com`
       },
       {
-        name: `About Us`,
-        url: `www.getpudding.com`
+        name: `About`,
+        url: `https://www.getpudding.com`
       }
     ],
     navigation: [
